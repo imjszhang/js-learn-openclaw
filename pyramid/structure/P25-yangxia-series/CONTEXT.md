@@ -20,15 +20,16 @@ read_when:
 
 ## Key Lines
 
-| 序号 | 论点                                                       | 引用 Groups                            | 展开文件                    |
-| ---- | ---------------------------------------------------------- | -------------------------------------- | --------------------------- |
-| KL01 | 我养了两只 AI 龙虾——通过它们的日常，看 OpenClaw 能干什么   | G21, G18, G51, G34, G52, G33, G50, G53 | KL01-two-lobsters.md        |
-| KL02 | 掌控 AI，而不是畏惧 AI——四个问题，看懂为什么必须本地部署   | G07, G11, G39, G40, G41, G43           | KL02-master-not-fear.md     |
-| KL03 | 给 OpenClaw 装上眼睛：JS-Eyes 解决登录态难题               | G34, G64                               | KL03-js-eyes-login.md       |
-| KL04 | OpenClaw 新手起飞：20 条救命要点，看完直接上手             | G12, G35                               | KL04-newbie-checklist.md    |
-| KL05 | 知识收集器是 AI 时代的"感官系统"——让龙虾能看、能记、能思考 | G06, G07, G08, G09, G10                | KL05-knowledge-collector.md |
-| KL06 | 知识棱镜是 AI 时代的"消化系统"——把信息洪流变成可复用的洞察 | G27, G49, G55, G56, G57, G58, G59, G60 | KL06-knowledge-prism.md     |
-| KL07 | App 消亡论：我的 OpenClaw 没有界面，因为它本身就是界面     | G34, G50, G52, G64                     | KL07-app-disappears.md      |
+| 序号 | 论点 | 引用 Groups | 展开文件 |
+| ---- | ---- | ----------- | -------- |
+| KL01 | 我养了两只 AI 龙虾——通过它们的日常，看 OpenClaw 能干什么 | G21, G18, G51, G34, G52, G33, G50, G53 | KL01-two-lobsters.md |
+| KL02 | 掌控 AI，而不是畏惧 AI——四个问题，看懂为什么必须本地部署 | G07, G11, G39, G40, G41, G43 | KL02-master-not-fear.md |
+| KL03 | 给 OpenClaw 装上眼睛：JS-Eyes 解决登录态难题 | G34, G64 | KL03-js-eyes-login.md |
+| KL04 | OpenClaw 新手起飞：20 条救命要点，看完直接上手 | G12, G35 | KL04-newbie-checklist.md |
+| KL05 | 知识收集器是 AI 时代的"感官系统"——让龙虾能看、能记、能思考 | G06, G07, G08, G09, G10 | KL05-knowledge-collector.md |
+| KL06 | 知识棱镜是 AI 时代的"消化系统"——把信息洪流变成可复用的洞察 | G27, G49, G55, G56, G57, G58, G59, G60 | KL06-knowledge-prism.md |
+| KL07 | App 消亡论：我的 OpenClaw 没有界面，因为它本身就是界面 | G34, G50, G52, G64 | KL07-app-disappears.md |
+| KL08 | 腾讯抢入口：微信接入 OpenClaw 的战略意义 | G07, G40, G43, G50, G52, G64 | KL08-wechat-entrance.md |
 
 ## 深入阅读
 

@@ -20,10 +20,10 @@ read_when:
 
 ## Key Lines
 
-| 序号 | 论点                                                                         | 引用 Groups | 展开文件                         |
-| ---- | ---------------------------------------------------------------------------- | ----------- | -------------------------------- |
-| KL01 | Knowledge Prism 是一种将日常笔记转化为结构化知识的高效工作方法。             | G01         | KL01-knowledge-prism.md          |
-| KL02 | Agent-First 架构模式强调以 AI Agent 为中心，优化工具和项目能力的结构化调用。 | G02         | KL02-agent-first-architecture.md |
+| 序号 | 论点 | 引用 Groups | 展开文件 |
+| ---- | ---- | ----------- | -------- |
+| KL01 | Knowledge Prism 是一种将日常笔记转化为结构化知识的高效工作方法。 | G01 | KL01-knowledge-prism.md |
+| KL02 | Agent-First 架构模式强调以 AI Agent 为中心，优化工具和项目能力的结构化调用。 | G02 | KL02-agent-first-architecture.md |
 
 ## 深入阅读
 
