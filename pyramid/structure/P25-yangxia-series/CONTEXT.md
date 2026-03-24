@@ -30,6 +30,8 @@ read_when:
 | KL06 | 知识棱镜是 AI 时代的"消化系统"——把信息洪流变成可复用的洞察 | G27, G49, G55, G56, G57, G58, G59, G60 | KL06-knowledge-prism.md |
 | KL07 | App 消亡论：我的 OpenClaw 没有界面，因为它本身就是界面 | G34, G50, G52, G64 | KL07-app-disappears.md |
 | KL08 | 腾讯抢入口：微信接入 OpenClaw 的战略意义 | G07, G40, G43, G50, G52, G64 | KL08-wechat-entrance.md |
+| KL09 | 别把龙虾当工具，把它当员工——Harness Engineering 四层架构 | G77, G78, G50, G52, G64 | KL09-harness-engineering.md |
+| KL10 | 装好了 OpenClaw 不知道干什么？先做这四件事 | G07, G09, G27, G50, G77, G78 | KL10-four-things.md |
 
 ## 深入阅读
 

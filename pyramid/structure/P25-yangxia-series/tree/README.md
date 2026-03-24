@@ -22,6 +22,8 @@
 | KL06 | 知识棱镜是 AI 时代的"消化系统"——把信息洪流变成可复用的洞察 | 系统     | KL10,KL21,KL22,KL23,KL24,KL25 | S27,S45,S49                 | 🆕 已创建 | G27,G49,G55,G56,G57,G58,G59,G60 | KL06-knowledge-prism.md     |
 | KL07 | App 消亡论：我的 OpenClaw 没有界面，因为它本身就是界面     | 哲学     | KL34,KL35                     | S23,S45,S49                 | 🆕 已创建 | G34,G50,G52,G64                 | KL07-app-disappears.md      |
 | KL08 | 腾讯抢入口：微信接入 OpenClaw 的战略意义                   | 热点     | KL02,KL07                     | S4,S23,S27,S45              | 🆕 已创建 | G07,G40,G43,G50,G52,G64         | KL08-wechat-entrance.md     |
+| KL09 | 别把龙虾当工具，把它当员工——Harness Engineering 四层架构   | 系统     | KL02,KL07                     | S4,S23,S27,S45              | ✅ 已完成 | G77,G78,G50,G52,G64             | KL09-harness-engineering.md |
+| KL10 | 装好了 OpenClaw 不知道干什么？先做这四件事                 | 指南     | KL01,KL04,KL05,KL06,KL08,KL09 | S4,S27,S45                  | 🆕 已创建 | G07,G09,G27,G50,G77,G78         | KL10-four-things.md |
 
 ## 结构检查
 

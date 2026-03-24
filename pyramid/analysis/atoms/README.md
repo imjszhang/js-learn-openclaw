@@ -85,6 +85,8 @@
 | JI   | js-evomap-darwin-design-and-implem...                        | 2026-03 |
 | WE   | kl08-wechat-entrance                                         | 2026-03 |
 | OB   | openclaw-agent-workspace-bootstrap... | 2026-03 |
+| KE   | kl10-compounding-effect               | 2026-03 |
+| KL   | kl10-four-things                      | 2026-03 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >
