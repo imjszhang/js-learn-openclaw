@@ -32,6 +32,7 @@ read_when:
 | KL08 | 腾讯抢入口：微信接入 OpenClaw 的战略意义 | G07, G40, G43, G50, G52, G64 | KL08-wechat-entrance.md |
 | KL09 | 别把龙虾当工具，把它当员工——Harness Engineering 四层架构 | G77, G78, G50, G52, G64 | KL09-harness-engineering.md |
 | KL10 | 装好了 OpenClaw 不知道干什么？先做这四件事 | G07, G09, G27, G50, G77, G78 | KL10-four-things.md |
+| KL11 | 使用龙虾 OpenClaw 干活的正确姿势：和用 Deepseek 完全不同 | G80, G77, G78 | KL11-hackthon-recruit-design.md |
 
 ## 深入阅读
 
