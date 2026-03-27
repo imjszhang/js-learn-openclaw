@@ -88,6 +88,7 @@
 | KE   | kl10-compounding-effect               | 2026-03 |
 | KL   | kl10-four-things                      | 2026-03 |
 | HD   | kl11-hackthon-recruit-design          | 2026-03 |
+| AC   | acp-cursor-agent-integration          | 2026-03 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >
