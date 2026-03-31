@@ -34,6 +34,8 @@ read_when:
 | KL10 | 装好了 OpenClaw 不知道干什么？先做这四件事 | G07, G09, G27, G50, G77, G78 | KL10-four-things.md |
 | KL11 | 使用龙虾 OpenClaw 干活的正确姿势：和用 Deepseek 完全不同 | G80, G77, G78 | KL11-hackthon-recruit-design.md |
 | KL12 | 龙虾写代码太烧钱？教它学会「外包」——一条命令省下 90% Token | G81 | KL12-acp-outsourcing.md |
+| KL13 | OpenClaw 好用的关键：配置好记忆 | G41, G52, G57 | KL13-three-layer-memory.md |
+| KL14 | 让龙虾自动盯盘——X.com 动态监控实战 | G34, G64 | KL14-x-monitoring.md |
 
 ## 深入阅读
 
