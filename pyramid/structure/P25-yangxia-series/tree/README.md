@@ -29,6 +29,8 @@
 | KL13 | OpenClaw 好用的关键：配置好记忆 | 系统 | KL05,KL06,KL09 | S27,S45 | 🆕 已创建 | G41,G52,G57 | KL13-three-layer-memory.md |
 | KL14 | 让龙虾自动盯盘——X.com 动态监控实战 | 实战 | KL03 | S23,S45 | ✅ 已完成 | G34,G64 | KL14-x-monitoring.md |
 | KL15 | 从 Claude Code 源码学习 Harness Engineering 配置 | 热点 | KL09,KL11,KL12,KL13 | S27,S45,S49,S62 | ✅ 已完成 | G07,G34,G41,G50,G52,G57,G64,G77,G78,G81 | KL15-learn-from-claude-code.md |
+| KL16 | （预留：系列中期总结或专题深入） | - | - | - | 📝 待规划 | - | - |
+| KL17 | 从消费者到生产者：在中国镜像上安装、切换、制作和发布你的第一个技能 | 进阶 | KL03,KL05,KL06,KL09 | S27,S45,S62 | 🆕 已创建 | G34,G64 | KL17-become-skill-creator.md |
 
 ## 结构检查
 

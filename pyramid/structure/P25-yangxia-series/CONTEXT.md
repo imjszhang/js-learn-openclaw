@@ -37,6 +37,8 @@ read_when:
 | KL13 | OpenClaw 好用的关键：配置好记忆 | G41, G52, G57 | KL13-three-layer-memory.md |
 | KL14 | 让龙虾自动盯盘——X.com 动态监控实战 | G34, G64 | KL14-x-monitoring.md |
 | KL15 | 从 Claude Code 源码学习 Harness Engineering 配置 | G07, G34, G41, G50, G52, G57, G64, G77, G78, G81 | KL15-learn-from-claude-code.md |
+| KL16 | （预留：系列中期总结或专题深入） | - | KL16-expand.md |
+| KL17 | 从消费者到生产者：在中国镜像上安装、切换、制作和发布你的第一个技能 | G34, G64 | KL17-become-skill-creator.md |
 
 ## 深入阅读
 

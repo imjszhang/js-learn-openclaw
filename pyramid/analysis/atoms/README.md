@@ -93,6 +93,8 @@
 | XM   | kl14-x-monitoring                     | 2026-03 |
 | KF   | kl15-learn-from-claude-code           | 2026-04 |
 | KH   | kl16-claude-code-harness-analysis     | 2026-04 |
+| PK   | publish-js-knowledge-prism-to-clawhub | 2026-04 |
+| SK   | kl17-become-skill-creator             | 2026-04 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >
