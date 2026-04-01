@@ -91,6 +91,8 @@
 | AC   | acp-cursor-agent-integration          | 2026-03 |
 | LM   | kl13-three-layer-memory               | 2026-03 |
 | XM   | kl14-x-monitoring                     | 2026-03 |
+| KF   | kl15-learn-from-claude-code           | 2026-04 |
+| KH   | kl16-claude-code-harness-analysis     | 2026-04 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >

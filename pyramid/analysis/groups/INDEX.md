@@ -89,6 +89,8 @@
 | G81 | ACP 架构通过将编码任务外包给外部 Harness，从结构上解决了 OpenClaw 原生编程的高 Token 成本难题 | 19 | 2026-03 |
 | G82 | 三层记忆系统通过"原生即时 - 结构化沉淀 - 外部情报"的有机协同，构建了可控、可追溯且具备时间复利的认知外挂 | 20 | 2026-03 |
 | G83 | X.com 账号自动监控需构建"JS-Eyes 登录态复用 + 内容哈希去重 + 成本可控 Cron"的闭环工作流 | 18 | 2026-03~04 |
+| G84 | OpenClaw 的 Harness Engineering 架构与 Claude Code 源码泄露揭示的设计模式高度同构，证明工程优化价值超越单一模型 | 30 | 2026-03~04 |
+| G85 | Claude Code 的 Harness 工程化揭示了"极简 Orchestrator+ 原语工具层 + 分层记忆防御"的第三代 Agent 架构范式 | 22 | 2026-04 |
 
 ## 变更日志
 
@@ -148,3 +150,5 @@
 | 2026-03-27 | 新建 G81 | 归入 acp-cursor-agent-integration (AC-01~AC-19) 共 19 个 atoms，形成完整的 ACP 架构原理、Cursor 集成配置及成本优化指南组 |
 | 2026-03-29 | 新建 G82 | 归入 kl13-three-layer-memory (LM-01~LM-20) 共 20 个 atoms，形成关于三层记忆系统架构、协同机制及技术实现的完整指南组 |
 | 2026-03-30 | 新建 G83 | 归入 kl14-x-monitoring (XM-01~XM-18) 共 18 个 atoms，形成 X.com 账号自动化监控工作流的完整实施指南 |
+| 2026-04-01 | 新建 G84 | 归入 kl15-learn-from-claude-code (KF-01~KF-30) 共 30 个 atoms，形成关于 Claude Code 源码分析与 OpenClaw Harness Engineering 架构对比的完整实证组 |
+| 2026-04-01 | 新建 G85 | 归入 kl16-claude-code-harness-analysis (KH-01~KH-22) 共 22 个 atoms，形成关于 Claude Code 源码深度分析、第三代 Agent 架构范式及对 OpenClaw 演进启示的完整实证组 |

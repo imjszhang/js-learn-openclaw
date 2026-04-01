@@ -27,7 +27,8 @@
 | KL11 | 使用龙虾 OpenClaw 干活的正确姿势：和用 Deepseek 完全不同   | 实战     | KL09                          | S27,S45                     | 🆕 已创建 | G80,G77,G78                     | KL11-hackthon-recruit-design.md |
 | KL12 | 龙虾写代码太烧钱？教它学会「外包」——一条命令省下 90% Token | 成本     | KL09,KL11                     | S62,S49                     | 🆕 已创建 | G81                             | KL12-acp-outsourcing.md |
 | KL13 | OpenClaw 好用的关键：配置好记忆 | 系统 | KL05,KL06,KL09 | S27,S45 | 🆕 已创建 | G41,G52,G57 | KL13-three-layer-memory.md |
-| KL14 | 让龙虾自动盯盘——X.com 动态监控实战 | 实战 | KL03 | S23,S45 | 🆕 进行中 | G34,G64 | KL14-x-monitoring.md |
+| KL14 | 让龙虾自动盯盘——X.com 动态监控实战 | 实战 | KL03 | S23,S45 | ✅ 已完成 | G34,G64 | KL14-x-monitoring.md |
+| KL15 | 从 Claude Code 源码学习 Harness Engineering 配置 | 热点 | KL09,KL11,KL12,KL13 | S27,S45,S49,S62 | ✅ 已完成 | G07,G34,G41,G50,G52,G57,G64,G77,G78,G81 | KL15-learn-from-claude-code.md |
 
 ## 结构检查
 
@@ -56,6 +57,7 @@
 | 2026-03-29 | 新增 KL13"龙虾的三层记忆"，基于三层记忆架构（原生记忆/Prism/Collector），引用 G41/G52/G57/S27/S45 |
 | 2026-03-27 | 新增 KL12"龙虾写代码太烧钱？教它学会「外包」"，基于 ACP + Cursor Agent 集成日志，三层结构（成本认知/外包方案/一条命令激活），引用 G81/S62 |
 | 2026-03-25 | KL11 重写标题为"使用龙虾 OpenClaw 干活的正确姿势：和用 Deepseek 完全不同"，三层结构（记忆/技能/协作），新增 js-comfyui-skill 开源分享段，Groups 更新为 G80,G77,G78 |
+| 2026-04-01 | KL15 已完成（Claude Code 源码泄露热点回应，六大技术/八个 Skill 映射到 OpenClaw 配置） |
 | 2026-03-22 | KL08 已创建（微信接入 OpenClaw 战略分析：教程 + 隐私 + 生态 + 机会四层结构）     |
 | 2026-03-12 | 聚焦单篇爆文策略，移除系列预告，仅 KL01 一篇                                     |
 | 2026-03-09 | 首次构建，8 条 KL 概览，仅 KL01 详细展开，其余骨架待读者反馈后推进               |
