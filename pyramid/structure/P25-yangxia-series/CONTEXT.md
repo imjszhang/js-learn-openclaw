@@ -37,8 +37,10 @@ read_when:
 | KL13 | OpenClaw 好用的关键：配置好记忆 | G41, G52, G57 | KL13-three-layer-memory.md |
 | KL14 | 让龙虾自动盯盘——X.com 动态监控实战 | G34, G64 | KL14-x-monitoring.md |
 | KL15 | 从 Claude Code 源码学习 Harness Engineering 配置 | G07, G34, G41, G50, G52, G57, G64, G77, G78, G81 | KL15-learn-from-claude-code.md |
-| KL16 | （预留：系列中期总结或专题深入） | - | KL16-expand.md |
-| KL17 | 从消费者到生产者：在中国镜像上安装、切换、制作和发布你的第一个技能 | G34, G64 | KL17-become-skill-creator.md |
+| KL16 | 教你的龙虾一套知识管理方法论 | G06, G07, G27, G49, G55, G56, G57, G58, G59, G60 | KL16-knowledge-management-method.md |
+| KL17 | 从堆积到生长：我用 OpenClaw 建了一个会思考的资料库 | G27, G49 | KL17-prism-in-practice.md |
+| KL18 | （预留：选题系统搭建实录） | - | KL18-expand.md |
+| KL19 | 把 Karpathy 的知识库思路，嫁接进我的养虾系统 | G27, G49 | KL19-karpathy-prism-fusion.md |
 
 ## 深入阅读
 

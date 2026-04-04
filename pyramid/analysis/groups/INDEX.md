@@ -93,6 +93,7 @@
 | G85 | Claude Code 的 Harness 工程化揭示了"极简 Orchestrator+ 原语工具层 + 分层记忆防御"的第三代 Agent 架构范式 | 22 | 2026-04 |
 | G86 | js-knowledge-prism 发布到 ClawHub 必须采用"Plugin 形态 + 绝对路径 + 语义化版本"策略以规避技能能力限制与 Windows 路径解析陷阱 | 13 | 2026-04 |
 | G87 | 技能生态演进需依托「中国镜像基建 + 标准化开发范式 + 登录态桥接方案」实现从消费到生产的身份跃迁 | 15 | 2026-04 |
+| G88 | 知识库架构需融合"Karpathy 轻量全量读取”与"Prism 深度蒸馏”双模式，以适配个人管理与内容产出的差异化场景 | 13 | 2026-04 |
 
 ## 变更日志
 
@@ -156,3 +157,4 @@
 | 2026-04-01 | 新建 G85 | 归入 kl16-claude-code-harness-analysis (KH-01~KH-22) 共 22 个 atoms，形成关于 Claude Code 源码深度分析、第三代 Agent 架构范式及对 OpenClaw 演进启示的完整实证组 |
 | 2026-04-01 | 新建 G86 | 归入 publish-js-knowledge-prism-to-clawhub (PK-01~PK-13) 共 13 个 atoms，形成 js-knowledge-prism 发布到 ClawHub 的完整实操指南，重点解决形态选择与 Windows 路径兼容性问题 |
 | 2026-04-01 | 新建 G87 | 归入 kl17-become-skill-creator (SK-01~SK-15) 共 15 个 atoms，形成关于 OpenClaw 中国镜像上线意义、技能开发标准化流程及从消费者向生产者转型的完整指南组 |
+| 2026-04-04 | 新建 G88 | 归入 kl19-karpathy-prism-fusion (KK-01~KK-13) 共 13 个 atoms，形成关于 Karpathy 知识库架构分析与 Prism 融合演进策略的完整实证组 |
