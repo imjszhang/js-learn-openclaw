@@ -96,6 +96,9 @@
 | PK   | publish-js-knowledge-prism-to-clawhub | 2026-04 |
 | SK   | kl17-become-skill-creator             | 2026-04 |
 | KK   | kl19-karpathy-prism-fusion            | 2026-04 |
+| TS   | kl26-topic-system-setup               | 2026-04 |
+| DL   | kl20-four-levels-of-delegation        | 2026-04 |
+| KO   | kl22-one-man-team                     | 2026-04 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >
