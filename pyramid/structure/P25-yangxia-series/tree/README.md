@@ -33,11 +33,10 @@
 | KL17 | 从堆积到生长：我用 OpenClaw 建了一个会思考的资料库 | 实战 | KL05,KL06,KL13,KL16 | S27,S45 | 🆕 已创建 | G27,G49 | KL17-prism-in-practice.md |
 | KL18 | （预留） | - | - | - | 📝 待规划 | - | - |
 | KL19 | 把 Karpathy 的知识库思路，嫁接进我的养虾系统 | 热点 | KL05,KL06,KL13,KL16 | S27,S45 | ✅ 已发布 | G27,G49 | KL19-karpathy-prism-fusion.md |
-| KL20 | 委托的四个层级：我的 OpenClaw 终于开始自己干活了 | 轻松好玩 | KL09,KL13,KL16 | S27,S45 | 🆕 已创建 | - | KL20-four-levels-of-delegation.md |
-| KL21 | 管理3000条笔记的幻觉：我差点被 OpenClaw 的知识库淹死 | 避坑指南 | KL05,KL06,KL13,KL16 | S27,S45 | 🆕 待写 | - | - |
-| KL21 | 管理3000条笔记的幻觉：我差点被 OpenClaw 的知识库淹死 | 避坑指南 | KL05,KL06,KL13,KL16 | S27,S45 | 🆕 待写 | - | - |
-| KL22 | 一人顶三人：我在 OpenClaw 里搭了一个最小化团队 | 解决痛点 | KL09,KL11,KL12,KL13,KL14,KL20 | S27,S45 | 🆕 已创建 | G34,G64,G81 | KL22-one-man-team.md |
-| KL23 | 那些说 OpenClaw 没用的人，根本不懂"委托"的艺术 | 疑问新知 | KL09,KL13 | S27,S45 | 🆕 待写 | - | - |
+| KL20 | 从 OpenClaw 官方文档里了解的时间哲学：工业时间与生物时间 | 轻松好玩 | KL09,KL13,KL16 | S27,S45 | ✅ 已发布 | - | KL20-four-levels-of-delegation.md |
+| KL21 | 我用龙虾管理微信收藏的900篇文章 | 痛点共鸣 | KL05,KL06,KL13,KL16 | S27,S45 | ✅ 已发布 | - | KL21-wechat-favorites-900.md |
+| KL22 | 一人顶三人：我在 OpenClaw 里搭了一个最小化团队 | 解决痛点 | KL09,KL11,KL12,KL13,KL14,KL20 | S27,S45 | ✅ 已发布 | G34,G64,G81 | KL22-one-man-team.md |
+| KL23 | Claude Code 被"开源"了，我为什么还在用 OpenClaw？ | 疑问新知 | KL09,KL13,KL15 | S27,S45,S62 | 🆕 已创建 | - | KL23-art-of-delegation.md |
 | KL24 | 我的 OpenClaw 数字分身？不，我只是让它记住了我是谁 | 轻松好玩 | KL13,KL16 | S27,S45 | 🆕 待写 | - | - |
 | KL25 | 当所有人都在用 ChatGPT，我为什么选择 OpenClaw | 解决痛点 | KL02,KL07,KL09 | S4,S23,S27,S45 | 🆕 待写 | - | - |
 | KL26 | 我是怎么用 OpenClaw +飞书多维表格，搭建养虾日记选题系统的 | 轻松好玩 | KL05,KL06,KL13,KL16 | S27,S45 | 🆕 已创建 | - | KL26-topic-system-setup.md |
@@ -65,6 +64,7 @@
 
 | 日期       | 变更摘要                                                                         |
 | ---------- | -------------------------------------------------------------------------------- |
+| 2026-04-06 | KL21 标题重写为"我用龙虾管理微信收藏的900篇文章"，从"避坑指南"转向"痛点共鸣"，围绕 js-knowledge-collector 900+微信文章管理实战，新增 KL21-wechat-favorites-900.md 框架 |
 | 2026-04-05 | 新增 KL22"一人顶三人"框架，基于真实自动化工作流（x-monitor + link-collector + prism + ACP），展示从"执行者"到"指挥者"的角色转变，引用 G34/G64/G81 |
 | 2026-04-04 | 新增 KL20"委托的四个层级"，基于 OpenClaw 文档深度研究（cron vs heartbeat vs hooks），展示从手动到全自动的委托进化路径 |
 | 2026-04-04 | 新增 KL26"我是怎么用 OpenClaw +飞书多维表格，搭建养虾日记选题系统的"，选题管理系统搭建实录 |

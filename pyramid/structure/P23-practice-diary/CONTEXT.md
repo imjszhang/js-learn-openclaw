@@ -63,6 +63,7 @@ read_when:
 | KL39 | 第 61 天：OpenClaw 与 Claude Code 架构同构性验证 | G84 | KL39-2026-04-01.md |
 | KL40 | 第 62 天：js-knowledge-prism 发布策略优化 | G86 | KL40-2026-04-02.md |
 | KL41 | 第 64 天：知识库架构双模式融合 | G88 | KL41-2026-04-04.md |
+| KL42 | 第 65 天：OpenClaw 最小化团队本质 | G91 | KL42-2026-04-05.md |
 
 ## 深入阅读
 

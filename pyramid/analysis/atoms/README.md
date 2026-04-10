@@ -99,6 +99,9 @@
 | TS   | kl26-topic-system-setup               | 2026-04 |
 | DL   | kl20-four-levels-of-delegation        | 2026-04 |
 | KO   | kl22-one-man-team                     | 2026-04 |
+| SM   | openclaw-session-management-cleanup   | 2026-04 |
+| WL   | daily-log                             | 2026-04 |
+| KS   | khazix-skill-open-source-methodology  | 2026-04 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >

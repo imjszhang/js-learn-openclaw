@@ -41,11 +41,10 @@ read_when:
 | KL17 | 从堆积到生长：我用 OpenClaw 建了一个会思考的资料库 | G27, G49 | KL17-prism-in-practice.md |
 | KL18 | （预留） | - | KL18-expand.md |
 | KL19 | 把 Karpathy 的知识库思路，嫁接进我的养虾系统 | G27, G49 | KL19-karpathy-prism-fusion.md |
-| KL20 | 委托的四个层级：我的 OpenClaw 终于开始自己干活了 | - | KL20-four-levels-of-delegation.md |
-| KL21 | 管理3000条笔记的幻觉：我差点被 OpenClaw 的知识库淹死 | - | KL21-expand.md |
-| KL21 | 管理3000条笔记的幻觉：我差点被 OpenClaw 的知识库淹死 | - | KL21-expand.md |
+| KL20 | 从 OpenClaw 官方文档里了解的时间哲学：工业时间与生物时间 | - | KL20-four-levels-of-delegation.md |
+| KL21 | 我用龙虾管理微信收藏的900篇文章 | - | KL21-wechat-favorites-900.md |
 | KL22 | 一人顶三人：我在 OpenClaw 里搭了一个最小化团队 | G34, G64, G81 | KL22-one-man-team.md |
-| KL23 | 那些说 OpenClaw 没用的人，根本不懂"委托"的艺术 | - | KL23-expand.md |
+| KL23 | Claude Code 被"开源"了，我为什么还在用 OpenClaw？ | - | KL23-art-of-delegation.md |
 | KL24 | 我的 OpenClaw 数字分身？不，我只是让它记住了我是谁 | - | KL24-expand.md |
 | KL25 | 当所有人都在用 ChatGPT，我为什么选择 OpenClaw | - | KL25-expand.md |
 | KL26 | 我是怎么用 OpenClaw +飞书多维表格，搭建养虾日记选题系统的 | - | KL26-topic-system-setup.md |
