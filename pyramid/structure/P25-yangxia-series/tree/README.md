@@ -44,7 +44,8 @@
 | KL28 | JS-Eyes 2.0：从浏览器工具到技能生态——我的龙虾现在能自动发现新能力了 | 解决痛点 | KL03,KL05,KL06,KL27 | - | ✅ 已完成 | - | KL28-js-eyes-2-skill-ecosystem.md |
 | KL29 | 现在养虾，就是 13 年做微信公众号 | 盲区纠正 | KL01,KL02,KL09,KL28 | - | ✅ 已完成 | - | KL29-lobster-is-2026-wechat-moment.md |
 | KL30 | 你的知识系统，不用你维护了 | 解决痛点 | KL05,KL06,KL13,KL16,KL17,KL21 | S27,S45,S49 | ✅ 已完成 | G06,G07,G27,G49 | KL30-knowledge-system-growth.md |
-| KL31 | 教你的龙虾，用你的flomo | 解决痛点 | KL05,KL06,KL16,KL27,KL30 | - | 🆕 已创建 | - | KL31-notes-reading-system.md |
+| KL31 | 教你的龙虾，用你的flomo | 解决痛点 | KL05,KL06,KL16,KL27,KL30 | - | ✅ 已完成 | - | KL31-notes-reading-system.md |
+| KL32 | 我的龙虾成了我的第二大脑 | 解决痛点 | KL05,KL27,KL30,KL31 | - | 🆕 已创建 | - | KL32-personal-brain.md |
 
 ## 结构检查
 
@@ -69,6 +70,7 @@
 
 | 日期       | 变更摘要                                                                         |
 | ---------- | -------------------------------------------------------------------------------- |
+| 2026-04-18 | 新增 KL32「我在 OpenClaw 里养了一个第二大脑」，collector+flomo+prism 三合一私人智库，龙虾进化到"完整的人"，6 个环节结构 |
 | 2026-04-17 | 新增 KL31「教你的龙虾，用你的flomo」，基于 js-knowledge-flomo 项目调研，7 个 AI 洞察工具，从"搜索"到"发现"的认知升级，对标 KL27 叙事结构 |
 | 2026-04-06 | KL21 标题重写为"我用龙虾管理微信收藏的900篇文章"，从"避坑指南"转向"痛点共鸣"，围绕 js-knowledge-collector 900+微信文章管理实战，新增 KL21-wechat-favorites-900.md 框架 |
 | 2026-04-05 | 新增 KL22"一人顶三人"框架，基于真实自动化工作流（x-monitor + link-collector + prism + ACP），展示从"执行者"到"指挥者"的角色转变，引用 G34/G64/G81 |

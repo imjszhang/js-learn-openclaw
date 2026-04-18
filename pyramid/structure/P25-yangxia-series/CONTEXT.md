@@ -53,6 +53,7 @@ read_when:
 | KL29 | 现在养虾，就是 13 年做微信公众号 | - | KL29-lobster-is-2026-wechat-moment.md |
 | KL30 | 你的知识系统，不用你维护了 | G06, G07, G27, G49 | KL30-knowledge-system-growth.md |
 | KL31 | 教你的龙虾，用你的flomo | - | KL31-notes-reading-system.md |
+| KL32 | 我的龙虾成了我的第二大脑 | - | KL32-personal-brain.md |
 
 ## 深入阅读
 

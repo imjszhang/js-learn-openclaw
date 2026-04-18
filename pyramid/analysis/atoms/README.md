@@ -112,6 +112,7 @@
 | EA   | js-eyes-2-architecture-upgrade        | 2026-04 |
 | LS   | kl29-lobster-is-2026-wechat-moment    | 2026-04 |
 | KN   | kl31-notes-reading-system             | 2026-04 |
+| PE   | kl32-personal-brain                   | 2026-04 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >
