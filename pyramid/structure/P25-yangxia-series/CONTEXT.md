@@ -39,7 +39,7 @@ read_when:
 | KL15 | 从 Claude Code 源码学习 Harness Engineering 配置 | G07, G34, G41, G50, G52, G57, G64, G77, G78, G81 | KL15-learn-from-claude-code.md |
 | KL16 | 教你的龙虾一套知识管理方法论 | G06, G07, G27, G49, G55, G56, G57, G58, G59, G60 | KL16-knowledge-management-method.md |
 | KL17 | 从堆积到生长：我用 OpenClaw 建了一个会思考的资料库 | G27, G49 | KL17-prism-in-practice.md |
-| KL18 | （预留） | - | KL18-expand.md |
+| KL18 | 与 OpenClaw 最搭的本地生图模型：Z-Image Turbo | G34, G73, G80 | KL18-comfyui-local-image-generation.md |
 | KL19 | 把 Karpathy 的知识库思路，嫁接进我的养虾系统 | G27, G49 | KL19-karpathy-prism-fusion.md |
 | KL20 | 从 OpenClaw 官方文档里了解的时间哲学：工业时间与生物时间 | - | KL20-four-levels-of-delegation.md |
 | KL21 | 我用龙虾管理微信收藏的900篇文章 | - | KL21-wechat-favorites-900.md |
@@ -47,7 +47,12 @@ read_when:
 | KL23 | Claude Code 被"开源"了，我为什么还在用 OpenClaw？ | - | KL23-art-of-delegation.md |
 | KL24 | 我的 OpenClaw 数字分身？不，我只是让它记住了我是谁 | - | KL24-expand.md |
 | KL25 | 当所有人都在用 ChatGPT，我为什么选择 OpenClaw | - | KL25-expand.md |
-| KL26 | 我是怎么用 OpenClaw +飞书多维表格，搭建养虾日记选题系统的 | - | KL26-topic-system-setup.md |
+| KL26 | 爱马仕取代龙虾？4 万星的 Hermes 到底在证明什么 | G95, G77, G83 | KL26-hermes-proves-the-path.md |
+| KL27 | 发现个新开源工具，帮助龙虾彻底接管微信 | - | KL27-wechat-cli-knowledge-graph.md |
+| KL28 | JS-Eyes 2.0：从浏览器工具到技能生态——我的龙虾现在能自动发现新能力了 | - | KL28-js-eyes-2-skill-ecosystem.md |
+| KL29 | 现在养虾，就是 13 年做微信公众号 | - | KL29-lobster-is-2026-wechat-moment.md |
+| KL30 | 你的知识系统，不用你维护了 | G06, G07, G27, G49 | KL30-knowledge-system-growth.md |
+| KL31 | 教你的龙虾，用你的flomo | - | KL31-notes-reading-system.md |
 
 ## 深入阅读
 

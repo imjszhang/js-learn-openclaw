@@ -31,7 +31,7 @@
 | KL15 | 从 Claude Code 源码学习 Harness Engineering 配置 | 热点 | KL09,KL11,KL12,KL13 | S27,S45,S49,S62 | ✅ 已完成 | G07,G34,G41,G50,G52,G57,G64,G77,G78,G81 | KL15-learn-from-claude-code.md |
 | KL16 | 教你的龙虾一套知识管理方法论 | 系统 | KL05,KL06,KL13 | S27,S45 | ✅ 已完成 | G06,G07,G27,G49,G55,G56,G57,G58,G59,G60 | KL16-knowledge-management-method.md |
 | KL17 | 从堆积到生长：我用 OpenClaw 建了一个会思考的资料库 | 实战 | KL05,KL06,KL13,KL16 | S27,S45 | 🆕 已创建 | G27,G49 | KL17-prism-in-practice.md |
-| KL18 | （预留） | - | - | - | 📝 待规划 | - | - |
+| KL18 | 与 OpenClaw 最搭的本地生图模型：Z-Image Turbo | KL09,KL11,KL15,KL26 | S45,S61 | ✅ 已发布 | G34,G73,G80 | KL18-comfyui-local-image-generation.md |
 | KL19 | 把 Karpathy 的知识库思路，嫁接进我的养虾系统 | 热点 | KL05,KL06,KL13,KL16 | S27,S45 | ✅ 已发布 | G27,G49 | KL19-karpathy-prism-fusion.md |
 | KL20 | 从 OpenClaw 官方文档里了解的时间哲学：工业时间与生物时间 | 轻松好玩 | KL09,KL13,KL16 | S27,S45 | ✅ 已发布 | - | KL20-four-levels-of-delegation.md |
 | KL21 | 我用龙虾管理微信收藏的900篇文章 | 痛点共鸣 | KL05,KL06,KL13,KL16 | S27,S45 | ✅ 已发布 | - | KL21-wechat-favorites-900.md |
@@ -39,7 +39,12 @@
 | KL23 | Claude Code 被"开源"了，我为什么还在用 OpenClaw？ | 疑问新知 | KL09,KL13,KL15 | S27,S45,S62 | 🆕 已创建 | - | KL23-art-of-delegation.md |
 | KL24 | 我的 OpenClaw 数字分身？不，我只是让它记住了我是谁 | 轻松好玩 | KL13,KL16 | S27,S45 | 🆕 待写 | - | - |
 | KL25 | 当所有人都在用 ChatGPT，我为什么选择 OpenClaw | 解决痛点 | KL02,KL07,KL09 | S4,S23,S27,S45 | 🆕 待写 | - | - |
-| KL26 | 我是怎么用 OpenClaw +飞书多维表格，搭建养虾日记选题系统的 | 轻松好玩 | KL05,KL06,KL13,KL16 | S27,S45 | 🆕 已创建 | - | KL26-topic-system-setup.md |
+| KL26 | 爱马仕取代龙虾？4 万星的 Hermes 到底在证明什么 | 疑问新知 | KL02,KL09,KL13,KL17,KL25 | S27,S45,S62 | ✅ 已发布 | G95,G77,G83 | KL26-hermes-proves-the-path.md |
+| KL27 | 发现个新开源工具，帮助龙虾彻底接管微信 | 疑问新知 | KL21,KL25 | - | ✅ 已完成 | - | KL27-wechat-cli-knowledge-graph.md |
+| KL28 | JS-Eyes 2.0：从浏览器工具到技能生态——我的龙虾现在能自动发现新能力了 | 解决痛点 | KL03,KL05,KL06,KL27 | - | ✅ 已完成 | - | KL28-js-eyes-2-skill-ecosystem.md |
+| KL29 | 现在养虾，就是 13 年做微信公众号 | 盲区纠正 | KL01,KL02,KL09,KL28 | - | ✅ 已完成 | - | KL29-lobster-is-2026-wechat-moment.md |
+| KL30 | 你的知识系统，不用你维护了 | 解决痛点 | KL05,KL06,KL13,KL16,KL17,KL21 | S27,S45,S49 | ✅ 已完成 | G06,G07,G27,G49 | KL30-knowledge-system-growth.md |
+| KL31 | 教你的龙虾，用你的flomo | 解决痛点 | KL05,KL06,KL16,KL27,KL30 | - | 🆕 已创建 | - | KL31-notes-reading-system.md |
 
 ## 结构检查
 
@@ -64,10 +69,17 @@
 
 | 日期       | 变更摘要                                                                         |
 | ---------- | -------------------------------------------------------------------------------- |
+| 2026-04-17 | 新增 KL31「教你的龙虾，用你的flomo」，基于 js-knowledge-flomo 项目调研，7 个 AI 洞察工具，从"搜索"到"发现"的认知升级，对标 KL27 叙事结构 |
 | 2026-04-06 | KL21 标题重写为"我用龙虾管理微信收藏的900篇文章"，从"避坑指南"转向"痛点共鸣"，围绕 js-knowledge-collector 900+微信文章管理实战，新增 KL21-wechat-favorites-900.md 框架 |
 | 2026-04-05 | 新增 KL22"一人顶三人"框架，基于真实自动化工作流（x-monitor + link-collector + prism + ACP），展示从"执行者"到"指挥者"的角色转变，引用 G34/G64/G81 |
 | 2026-04-04 | 新增 KL20"委托的四个层级"，基于 OpenClaw 文档深度研究（cron vs heartbeat vs hooks），展示从手动到全自动的委托进化路径 |
-| 2026-04-04 | 新增 KL26"我是怎么用 OpenClaw +飞书多维表格，搭建养虾日记选题系统的"，选题管理系统搭建实录 |
+| 2026-04-12 | KL26 重写：从"Anthropic 不开放 Mythos API"改为"Hermes 4 万星架构拆解"，核心叙事从"模型同质化"转为"Hermes 证明龙虾方向是对的"，文件更名为 KL26-hermes-proves-the-path.md |
+| 2026-04-15 | KL29 结构重构：7 KA 合并为 4 条逻辑线，标题改为"为什么我不看好 2026 年做公众号，但我看好养虾"，学 kzk 时间线叙事 + 类比贯穿，类别从"疑问新知"改为"盲区纠正" |
+| 2026-04-14 | KL29 正文创作完成：以 2012 公众号类比 2026 养虾，揭示"做自媒体不是资产，养虾才是"，三列对比表破局 |
+| 2026-04-16 | KL30 创作完成：标题「你的知识系统，不用你维护了」，以传统知识管理三死穴切入，对比 Notion 仓库 vs 龙虾生态，诚实账本不夸大产出，引用 G06/G07/G27/G49/S27/S45/S49 |
+| 2026-04-16 | KL18 状态更新为已发布（ComfyUI 本地生图），文件更名为 KL18-comfyui-local-image-generation.md |
+| 2026-04-14 | KL28 创作完成：JS-Eyes 2.0 单一主插件架构升级，从"装什么会什么"到"看到什么学什么"，龙虾能力边界彻底打开 |
+| 2026-04-13 | KL27 正文创作完成：从"你喂龙虾"到"龙虾自己拿"的进化，引入 wechat-cli 作为微信数据出口，规约同步更新（§4/§5/§6.8） |
 | 2026-04-04 | KL19 状态更新为"已发布"；补全 KL20-26 待写选题到表格；调整 KL18 为预留 |
 | 2026-04-04 | 新增 KL19"把 Karpathy 的知识库思路，嫁接进我的养虾系统"，基于 Karpathy 最新文章分析，与 prism 对比融合，引用 G27/G49/S27/S45 |
 | 2026-04-04 | KL16 状态更新为已完成，KL17 已创建；KL18 预留；调整 KL16-KL18 状态 |

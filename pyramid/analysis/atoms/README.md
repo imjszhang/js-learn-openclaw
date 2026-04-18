@@ -102,6 +102,16 @@
 | SM   | openclaw-session-management-cleanup   | 2026-04 |
 | WL   | daily-log                             | 2026-04 |
 | KS   | khazix-skill-open-source-methodology  | 2026-04 |
+| KT   | kl25-topic-selection                  | 2026-04 |
+| CG   | corey-ganim-perfect-openclaw-setup    | 2026-04 |
+| EO   | kl26-evolution-of-a-shrimp-farmer     | 2026-04 |
+| ET   | kl26-evolution-through-topics         | 2026-04 |
+| KM   | kl26-mythos-ai-class                  | 2026-04 |
+| KM   | kl26-mythos-ai-class                  | 2026-04 |
+| WK   | kl27-wechat-cli-knowledge-graph       | 2026-04 |
+| EA   | js-eyes-2-architecture-upgrade        | 2026-04 |
+| LS   | kl29-lobster-is-2026-wechat-moment    | 2026-04 |
+| KN   | kl31-notes-reading-system             | 2026-04 |
 
 > 注：以下缩写来自 js-knowledge-prism 仓库合并，与本库已有缩写存在复用：
 >
